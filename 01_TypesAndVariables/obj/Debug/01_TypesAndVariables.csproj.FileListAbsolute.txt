@@ -1,0 +1,2 @@
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CoreCompileInputs.cache
