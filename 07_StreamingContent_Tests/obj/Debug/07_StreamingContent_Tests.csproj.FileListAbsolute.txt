@@ -11,6 +11,5 @@ C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_Streaming
 C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.AssemblyReference.cache
 C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CoreCompileInputs.cache
-C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CopyComplete
 C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.dll
 C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.pdb
